@@ -54,8 +54,8 @@
     "TestingDalamudApiLevel": 15,
     "IsHide": false,
     "IsTestingExclusive": true,
-    "DownloadLinkInstall": "https://github.com/kihtli/OutfitStudio/releases/download/v0.1.9/OutfitStudio-0.1.10.zip",
-    "DownloadLinkUpdate": "https://github.com/kihtli/OutfitStudio/releases/download/v0.1.9/OutfitStudio-0.1.10.zip",
-    "DownloadLinkTesting": "https://github.com/kihtli/OutfitStudio/releases/download/v0.1.9/OutfitStudio-0.1.10.zip"
+    "DownloadLinkInstall": "https://github.com/kihtli/OutfitStudio/releases/download/v0.1.10/OutfitStudio-0.1.10.zip",
+    "DownloadLinkUpdate": "https://github.com/kihtli/OutfitStudio/releases/download/v0.1.10/OutfitStudio-0.1.10.zip",
+    "DownloadLinkTesting": "https://github.com/kihtli/OutfitStudio/releases/download/v0.1.10/OutfitStudio-0.1.10.zip"
   }
 ]
